@@ -1,5 +1,7 @@
 Nome: Julio Castro 
 cpf: 984.472.621-20
+Natural de: Teresina - PI
 
 Nome: Airla Raquel
 cpf: 631.967.513-98
+Natural de: Fortaleza - CE
